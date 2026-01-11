@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🖥️ More repositories can be found on my [Codeberg Profile](https://codeberg.org/wlana)
+- 🌐 More about me at [lana.coffee](https://lana.coffee/)
+
+### You usually see me using..
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,js,react,threejs,ts,vue,jest,astro,deno,django,laravel,nodejs,php,py,postgres,docker,git,github,md,regex,blender
+)](https://skillicons.dev)
